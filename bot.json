@@ -1,0 +1,11 @@
+{
+    "user_id": 532892176,
+    "bot_token": "1612210943:AAEOGMc3Fs4NuFXrXbn92Q1PTdchHqEIAi8",
+    "api_id": "3846975",
+    "api_hash": "eddb2653218ff1ce21cbab2dbcfeb7a9",
+    "proxy":false,
+    "proxy_type":"socks5或者http或者https", 
+    "proxy_add":"代理IP地址例如：192.168.99.100", 
+    "proxy_port":"代理端口，不需要双引号例如 5890",
+    "StartCMD": true
+}
